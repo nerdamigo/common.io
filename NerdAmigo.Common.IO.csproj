@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\abstractions\NerdAmigo.Abstractions.csproj">
+    <ProjectReference Include="..\..\abstractions\NerdAmigo.Abstractions\NerdAmigo.Abstractions.csproj">
       <Project>{2bff206d-8d34-47c2-92c5-6d002cb2b424}</Project>
       <Name>NerdAmigo.Abstractions</Name>
     </ProjectReference>
